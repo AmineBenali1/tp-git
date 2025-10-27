@@ -1,3 +1,3 @@
 "# Git & GitHub Lab" 
 ## Lab Objectives 
-line modified in feature-A
+conflict between A and B resolved
